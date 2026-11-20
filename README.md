@@ -16,7 +16,8 @@ A cross-platform pet care app built with Flutter and Firebase Authentication. My
 Flutter, Dart, Firebase Authentication, Material 3, Google Fonts
 
 ## Download and Documentation
-APK and project documentation: https://drive.google.com/drive/folders/1UJKWCp_lgzAgJuGzERR5b8lJOrqkFHRN?usp=drive_link
+APK File : https://drive.google.com/file/d/1SIfL5BFKc7Ozt2asjGBUrvntwCmkKnpU/view?usp=sharing
+App demo link : https://drive.google.com/file/d/151suw-xVYfOKCph9apNIWnSMfDRQ8G7T/view?usp=sharing
 
 ## Run the app
     flutter pub get
